@@ -1,4 +1,4 @@
-## El demonio del septimo requested change
+## El demonio del decimoséptimo requested change
 Si estás en mi perfil seguramente es por que haya rechazado tu PR.
 
 Bienvenido.
@@ -15,4 +15,11 @@ Opiniones de los usuarios:
 *[zzezequiel](https://github.com/zzezequiel)* ★★★★★
 
 > Siempre me deja comentarios.
-<img src="https://lh3.googleusercontent.com/fife/ALs6j_G8ADqK6SYvoFr5yVmWV45MzIoBDfu_UGSBVti4TSAuS8nQ6FsMMvEGF928FeXMMBOJrttxMjChn2m3G5xnp9z8TEEKfZyqRMF4EfeO-eayZZdNHqXfdFop5jh3z4BcUyc_G4nM45UOQqHsui-8tHRp5S3KWELfCP9H7lpi6RasnfhCP3k5ni64Z7burY74Uz7WWNzocBq5SbYYPCI8f5ozMJHwWUbmt2QRxmevIAjm6XN9XhaiBUx7YFKitGkyJPv0QrPsbXkcSfAxqksOTu3_UbwAmylpAzZGTVbeDnUzWWp4cGVlhMKEdSaE0gFiiIpSZFOtAoXdDYCgg_wguzwrvIBy5HoBCukTxkuw_iqfrbOukySuS9lJebqwtNQgcbrraoU_8QXu76zV0ixoNSWTiwtv-BSc7mJk9s3LtQ1B5d1Tz6Ti2Ip5BdSiBH8J_kJy_4LH9EP-jLhOrNGtwfwAPfks0_2YmgQ9-58rt6lHqVTf4EIZiNmLVrLWwseiHxH5oA_Satyn-0B6RHeGJEl6cvoSfnZQbLC6hn7cpi13lHWrx1u_ctZSY1e22sFN3Xp70vC55qi5yRa25NzrMpYpPR4yEItbfiimWUJmhSC9Z-RJ6TM_2iNLYv26vHYXW26NsjXvgi8uk6AD7O_PthV4jDqoF6iH7mQLI2PyPgi65GwkTd2Ea9RG4Us2heTf-eFk69HyBLAtS6Y--Dxq0Gu7i_e94t2av3tm82rmMor2_Twive13hdTwmonIZfXlzJUUhqGXhQNtSpRp5iQDa9K3Y3XyjUudFjjWykE28FDNfpg68skFjPk9X975gA1FKn6u-jtuQIyy59K6fRMxYkJK22DxBKJF5efYs5oAPvcpYoa62QZaPZjeteZ4I-LoIKGCOnyRttMMvzy5Zy9zqYbm93Cjzm6jAIvVmJlRd6rCPJDP79K2yjrMzTg_E1fJZt0t=w1720-h1275"/>
+
+*[pswsm](https://github.com/pswsm)* ★☆☆☆☆
+
+> desde cuando somos tan tocapelotas con las validaciones. me estas bloqueando todas las tareas lmfao
+
+*[deivaxx](https://github.com/deivaxx)* ★★★☆☆
+
+> deja de darle vueltas al assert que no es lo mas loco que vas a ver hoy jajajajaa
