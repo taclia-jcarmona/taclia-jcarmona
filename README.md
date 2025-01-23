@@ -1,4 +1,4 @@
-## El demonio del decimoséptimo requested change
+## El demonio del trigesimoséptimo requested change
 Si estás en mi perfil seguramente es por que haya rechazado tu PR.
 
 Bienvenido.
@@ -23,3 +23,7 @@ Opiniones de los usuarios:
 *[deivaxx](https://github.com/deivaxx)* ★★★☆☆
 
 > deja de darle vueltas al assert que no es lo mas loco que vas a ver hoy jajajajaa
+
+*[ManuMenBot]([https://github.com/VictorDk67](https://github.com/ManuMenBot))* ★☆☆☆☆
+
+> Me apalea en la PR
