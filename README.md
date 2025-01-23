@@ -24,6 +24,6 @@ Opiniones de los usuarios:
 
 > deja de darle vueltas al assert que no es lo mas loco que vas a ver hoy jajajajaa
 
-*[ManuMenBot]([https://github.com/VictorDk67](https://github.com/ManuMenBot))* ★☆☆☆☆
+*[ManuMenBot](https://github.com/ManuMenBot)* ★☆☆☆☆
 
 > Me apalea en la PR
